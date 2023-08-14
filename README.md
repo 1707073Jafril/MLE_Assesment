@@ -10,7 +10,7 @@
   - category.csv  : is the output file containg file and predicted category
   
 
-**About the model**
+**About the model**\
 Finally we chose a traditional machine learning and SVM based model as our final model . We chose **LinearSVC()** because :
   - It can handle high dimensional data
   - Faster than Neural Network based model
