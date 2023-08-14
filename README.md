@@ -30,3 +30,6 @@ Finally we chose a traditional machine learning and SVM based model as our final
 - Modify the pdf location
 - Run : python script.py in linux machine or windows
 - It will show the model description and will create a csv file containing unseen csv file and predicted category!
+
+\
+**Or Run the Notebook in Colab , Kaggle or in your machine**
