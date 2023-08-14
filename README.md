@@ -16,3 +16,17 @@ Finally we chose a traditional machine learning and SVM based model as our final
   - Faster than Neural Network based model
   - Obtained maxmum accuracy & F1 Score
   - Work good in non linear decision boundaries
+\
+\
+**F1 Score of LinearSVC()**
+**0.99**
+\
+\
+**Model Overfit?**
+- No, the model passed the manual test also!
+
+\
+**Run the Script**
+- Modify the pdf location
+- Run : python script.py in linux machine or windows
+- It will show the model description and will create a csv file containing unseen csv file and predicted category!
